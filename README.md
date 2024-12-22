@@ -4,7 +4,7 @@ Spring Review and Retrospective
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-Interpreting user needs and implementing them into a program requires you to have a deeper understanding of what the needs are. If you understand what those needs are just as much as your user then you can break it down into smaller tasks and then truly implement them. Creating "user stories" is what helps you get a deeper understanding as it gets down into the specific details. If a client tells me they want more search functionality then that's left to my interpretation but if they submit a user story and say they want to search travel packages by destination and price then I can fully understand what they need from me. 
+Interpreting user needs and implementing them into a program requires you to have a deeper understanding of what the needs are. If you understand what those needs are just as much as your user then you can break it down into smaller tasks and then truly implement them. Creating "user stories" is what helps you get a deeper understanding as it gets down into the specific details. If a client tells me they want more search functionality, then that's left up to my interpretation, but if they submit a user story and say they want to search travel packages by destination and price, then I will fully understand what they need from me. 
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
