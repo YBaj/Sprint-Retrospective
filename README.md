@@ -12,4 +12,4 @@ With anything in life it is important to take things step by step, and I believe
 
 What does it mean to be a good team member in software development?
 
-Being a good team member in software development means doing a lot of things. You must be aware of others and what exactly is expected from you. You must be able to be accountable for your actions and hold others accountable for their actions. Most importantly, you must be able to communicate effectively and transparently. Being aware and having these traits will lead to a cohesion and guaranteed success between you and your fellow team member.
+Being a good team member in software development means doing a lot of things. You must be aware of others and what exactly is expected from you. You must be able to be accountable for your actions and hold others accountable for their actions. Most importantly, you must be able to communicate effectively and transparently. Being aware and having these traits will lead to a cohesion and guaranteed success between you and your fellow team members.
