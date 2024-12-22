@@ -8,7 +8,7 @@ Interpreting user needs and implementing them into a program requires you to hav
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
-With anything in life it is important to take things step by step, and I believe with developing programs it is extremely important. If you break things down into small tasks you will not be overwhelmed as easily, and it will allow you to develop programs with increased ease. Some great agile processes, such as Stand-ups and retrospectives are something I would love to take with my in my future of development. 
+With anything in life it is important to take things step by step, and I believe with developing programs it is extremely important. If you break things down into small tasks you will not be overwhelmed as easily, and it will allow you to develop programs with increased ease. Some great agile processes, such as Stand-ups and retrospectives are something I would love to take with me in my future of development. 
 
 What does it mean to be a good team member in software development?
 
